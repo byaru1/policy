@@ -1,0 +1,35 @@
+Unique identifier:
+Draft Policy Name: Out-Of-Region Use of AFRINIC's Internet Number Resources.
+Author(s): Douglas Onyango | ondouglas@gmail.com 
+Draft Policy Version: 0.1
+Submission Date: 01.07.2014
+Obsoletes: None
+Amends: All allocation/assignment Policies.
+
+[1] Summary of the Problem Being Addressed by this Policy Proposal.
+Currently AFRINIC's policies do not explicitly allow or disallow
+Out-Of-Region use of Internet number resources. This silence on an important facet of number resource management jeopardises administration by leaving staff to arbitrarily decide how to handle Out-Of-Region requests. The imminent exhaustion of IPv4 aggravates the situation because it is anticipated that organisations from other regions will have more incentive to exploit this, and any other loophole in AFRINIC's polices to acquire resources for sale or use outside the region -- a practice that is not in AFRINICís best interest.
+ 
+[2] Summary of How this Proposal Addresses the Problem
+This policy allows up to 40% of Internet number resources in use by a member to be outside the region. It also tries to be a disincentive for organizations from other regions that want to acquire resources from AFRINIC for use in ways that are not in line with AFRINICís policies and best interest.
+
+For the avoidance of doubt, the author does not seek to prolong the lifespan of IPv4 with this policy; rather, he seeks to ensure that number resources allocated/assigned by AFRINIC are used by legitimate members from the service region to support their network operations, regardless of physical location.
+
+[3] Proposal
+a) Upon ratification of this policy, out-of-region use of AFRINIC's number resources shall be permitted as long it is preceded by use within the region.
+b) Notwithstanding (3.a), the number resources used outside the region at any given point in time shall not exceed 40% of the total space in use by a member. Total space in use shall be calculated as follows: if x be the allocation/assignment size; and x-y the amount of space in use at time z, then 40% of (x-y) shall be the ceiling). 
+c) AFRINIC staff shall at their discretion, and using whatever means are available, assess compliance with 3.a/b.
+d) This policy shall forthwith be part of the acceptable use policy for Internet numbers any breaches shall be dealt with in accordance with the RSA other AFRINIC policies.
+e) For the avoidance of doubt, this policy shall not be applied in mutual exclusion, but rather complement already existing policies and other eligibility criteria prescribed by AFRINIC.
+f) This policy shall apply to past, present and future allocations/assignments made by AFRINIC.
+g) This policy shall remain in effect until i) it is mooted by another policy or it is superseded by a board resolution. ii) Until section 3.8 of the IPv4 Softanding Policy kicks in. (Use of IPv4 space from the last /8 outside the region shall be only to facilitate connectivity back to the region)
+
+
+[4] Revision History (for all but the very first draft)
+ 
+4.1 Version nn
+
+Change: .......................... (Description of the change)
+Reason for Change :..........( why was it changed?)
+
+5.0 References
