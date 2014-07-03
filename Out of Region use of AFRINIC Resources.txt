@@ -1,4 +1,4 @@
-Unique identifier:
+Unique identifier: AFPUB-2014-GEN-001-DRAFT-01
 Draft Policy Name: Out-Of-Region Use of AFRINIC's Internet Number Resources.
 Author(s): Douglas Onyango | ondouglas@gmail.com 
 Draft Policy Version: 0.1
